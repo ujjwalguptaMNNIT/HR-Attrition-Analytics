@@ -1,4 +1,9 @@
+
 # HR-Attrition-Analytics
+
+
+https://github.com/user-attachments/assets/e1fcbbf1-e882-48e1-b276-945d029d7c04
+
 This project addresses critical HR challenges using Power BI, Tableau and SQL focusing on HR Data 2022 of a medical components manufacturing company.
 ## Problem Statement
 
